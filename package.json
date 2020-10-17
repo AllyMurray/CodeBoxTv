@@ -1,0 +1,27 @@
+{
+  "name": "codeboxtv",
+  "version": "0.0.1",
+  "description": "interactive mobile quiz gam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FreeCodeCampEdinburgh/CodeBoxTv.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FreeCodeCampEdinburgh/CodeBoxTv/issues"
+  },
+  "homepage": "https://github.com/FreeCodeCampEdinburgh/CodeBoxTv#readme",
+  "dependencies": {
+    "koa": "^2.13.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.3",
+    "@babel/preset-env": "^7.12.1",
+    "@babel/register": "^7.12.1"
+  }
+}
